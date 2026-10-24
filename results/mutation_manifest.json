@@ -1,0 +1,18 @@
+{
+  "seed": 42,
+  "original_products": 30000,
+  "busiest_zone": "ZONE-06",
+  "busiest_zone_original_count": 2482,
+  "deleted_from_busiest_zone": 248,
+  "added_products": 1500,
+  "mutated_products_total": 31252,
+  "embedding_dimensions": 384,
+  "mutation": {
+    "delete_fraction_of_busiest_zone": 0.1,
+    "add_fraction_of_original_dataset": 0.05,
+    "embedding_shift_noise_std": 0.12,
+    "new_product_price_multiplier": 1.25,
+    "new_zones": 5
+  },
+  "original_data_modified": false
+}

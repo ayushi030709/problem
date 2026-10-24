@@ -1,0 +1,14 @@
+{
+  "seed": 42,
+  "products": 30000,
+  "embedding_dimensions": 384,
+  "queries_per_selectivity": 50,
+  "k": 10,
+  "ivf_partitions": 100,
+  "ground_truth": "exact filtered brute-force cosine/dot-product ranking",
+  "notes": [
+    "Vectors and query embeddings are normalized by the dataset generator.",
+    "Selectivity uses observed price thresholds; actual values may differ from targets.",
+    "Latency includes strategy execution, but excludes IVF index build and ground-truth computation."
+  ]
+}
