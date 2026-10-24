@@ -7,6 +7,14 @@ A Python-based benchmarking project for evaluating vector search strategies, met
 
 ---
 
+## 🎥 Project Demo Recordings
+
+1. ▶️ **[Watch Demo Recording 1](https://drive.google.com/file/d/1cEw5Rd3o0KckiNY819jx6F3jilHamhnK/view?usp=sharing)**
+2. ▶️ **[Watch Demo Recording 2](https://drive.google.com/file/d/1sWNAljhO5MjHaShuem6xzsB78y_UPqEm/view?usp=sharing)**
+
+---
+
+
 ## 🚀 Key Features
 
 - **Exact Vector Search** — Establishes a reference for retrieval quality.
